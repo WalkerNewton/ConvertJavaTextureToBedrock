@@ -61,9 +61,9 @@ Internet Explorer or old Edge are not supported!
 
 The latest version is available through Github page
 
-Look at https://ozelot379.github.io/ConvertJavaTextureToBedrock
+Look at https://WalkerNewton.github.io/ConvertJavaTextureToBedrock
 
-### Docker
+### Docker (Outdated - not working)
 
 You can also use the web app with Docker like
 
@@ -74,10 +74,10 @@ docker run --rm -p 127.0.0.1:8080:80 ozelot379/convert-minecraft-java-texture-to
 
 Look at https://hub.docker.com/r/ozelot379/convert-minecraft-java-texture-to-bedrock-webapp
 
-## CLI
+## CLI (Outdated - not working)
 
 Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockCli
 
 ## API
 
-Look at https://github.com/ozelot379/ConvertJavaTextureToBedrockApi
+Look at https://github.com/WalkerNewton/ConvertJavaTextureToBedrockApi
